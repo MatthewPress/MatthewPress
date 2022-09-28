@@ -1,39 +1,37 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![GMail][gmail-shield]][gmail-url]
+## About Me
 
-## Yo
-
-I'm currently studying Front-End Development at the Turing School of Software and Design.
-
-My current focus is learning React and Express, but I'd also like to continue developing my CSS skills.
+I'm currently studying Front-End Development at the Turing School of Software and Design. My current focus is learning React and Express, but I'd also like to continue developing my CSS skills.
 
 A far off goal I have is to make an application that can analyze an indoor rock climbing wall and with information about a climber the application can show the best route up the wall.
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GMail][gmail-shield]][gmail-url]
 
 ## Skills
 
 ### Languages
 
-* ![JavaScript][JavaScript-shield]
-* ![CSS][CSS-shield]
-* ![HTML5][HTML-shield]
+![JavaScript][JavaScript-shield]
+![CSS][CSS-shield]
+![HTML5][HTML-shield]
 
 ### Frameworks / Libraries / Testing
 
-* ![NPM][NPM-shield]
-* ![Node][Node-shield]
-* ![Mocha][Mocha-shield]
-* ![Chai][Chai-shield]
+![NPM][NPM-shield]
+![Node][Node-shield]
+![Mocha][Mocha-shield]
+![Chai][Chai-shield]
 
 ### Tools
 
-* ![GitHub][GitHub-shield]
-* ![Git][Git-shield]
-* ![VSCode][VSCode-shield]
+![GitHub][GitHub-shield]
+![Git][Git-shield]
+![VSCode][VSCode-shield]
 
 ### Processess / Concepts
 
-* ![OOP][OOP-shield]
-* ![TDD][TDD-shield]
+![OOP][OOP-shield]
+![TDD][TDD-shield]
 
 <!-- LINKS ***************************************************************************************** -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
