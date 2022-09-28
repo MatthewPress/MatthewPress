@@ -4,6 +4,8 @@ I'm studying Front-End Development at the Turing School of Software and Design. 
 
 A far off goal I have is to make an application that can analyze an indoor rock climbing wall and with information about a climber the application can show the best route up the wall.
 
+## Contact Information
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GMail][gmail-shield]][gmail-url]
 
