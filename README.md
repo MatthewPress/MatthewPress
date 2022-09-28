@@ -21,6 +21,7 @@ A far off goal I have is to make an application that can analyze an indoor rock 
 ![Node][Node-shield]
 ![Mocha][Mocha-shield]
 ![Chai][Chai-shield]
+![DayJS][DayJS-shield]
 
 ### Tools
 
@@ -47,6 +48,7 @@ A far off goal I have is to make an application that can analyze an indoor rock 
 [Node-shield]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Mocha-shield]: https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white
 [Chai-shield]: https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white
+[DayJS-shield]: https://img.shields.io/badge/-DayJS-green?style=for-the-badge&logo=DayJS&logoColor=white
 
 [GitHub-shield]: https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white
 [Git-shield]: https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white
