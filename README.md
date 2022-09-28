@@ -1,6 +1,6 @@
 ## About Me
 
-I'm currently studying Front-End Development at the Turing School of Software and Design. My current focus is learning React and Express, but I'd also like to continue developing my CSS skills.
+I'm studying Front-End Development at the Turing School of Software and Design. My current focus is learning React and Express, but I'd also like to continue developing my CSS skills.
 
 A far off goal I have is to make an application that can analyze an indoor rock climbing wall and with information about a climber the application can show the best route up the wall.
 
