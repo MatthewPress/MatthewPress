@@ -1,10 +1,3 @@
-<a href="https://github.com/MatthewPress/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewPress&show_icons=true&theme=outrun" />
-</a>
-<a href="https://github.com/MatthewPress/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewPress&layout=compact&theme=outrun" />
-</a>
-
 ## Yo, it's Matt
 
 I'm studying Front-End Development at the Turing School of Software and Design. My current focus is on learning React and Express, but I'd also like to continue developing my CSS skills.
@@ -12,6 +5,19 @@ I'm studying Front-End Development at the Turing School of Software and Design. 
 A far off goal I have is to make an application that can analyze an indoor rock climbing wall and with information about a climber the application can show the best route up the wall.
 
 #### [LinkedIn](https://linkedin.com/in/matthew-press-813961246/) | [GMail](mailto:press.matt14@gmail.com)
+
+<div align="center">
+  <a href="https://github.com/MatthewPress/github-readme-stats">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatthewPress&show_icons=true&theme=outrun" />
+  </a>
+  <a href="https://github.com/MatthewPress/github-readme-stats">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewPress&layout=compact&theme=outrun" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatthewPress&style=flat-square&color=3CD218" alt="Profile view counter"/>
+</div>
 
 ## Skills
 
