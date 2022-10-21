@@ -1,12 +1,10 @@
-## Yo, it's Matt
+### Yo. It's Matt
 
-I'm studying Front-End Development at the Turing School of Software and Design. My current focus is on learning React and Express, but I'd also like to continue developing my CSS skills.
+📚 I'm studying Front-End Development at the Turing School of Software and Design. My current focus is on learning React and Express.
 
 A far off goal I have is to make an application that can analyze an indoor rock climbing wall and with information about a climber the application can show the best route up the wall.
 
-<div align="center">
-  #### [LinkedIn](https://linkedin.com/in/matthew-press-813961246/) | [GMail](mailto:press.matt14@gmail.com)
-</div>
+<h3 align="center"><a href="https://linkedin.com/in/matthew-press-813961246/">LinkedIn</a> | <a href="mailto:press.matt14@gmail.com">GMail</a></h3>
 
 <hr />
 
