@@ -25,6 +25,8 @@
 
 * React
 * React Router
+* GraphQL
+* Apollo
 * JavaScript
 * CSS
 * HTML
