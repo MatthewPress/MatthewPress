@@ -1,6 +1,6 @@
 ### Yo. It's Matt
 
-📚 I'm studying Front-End Development at the Turing School of Software and Design. My current focus is on learning TypeScript, Tailwind, and GraphQL.
+📚 My current focus is on learning Next.js, TypeScript, Tailwind, and Prisma.
 
 🔭 A far off goal I have is to make an application that can analyze an indoor rock climbing wall and with information about a climber the application can show the best route up the wall.
 
@@ -27,6 +27,7 @@
 * React Router
 * GraphQL
 * Apollo
+* TypeScript
 * JavaScript
 * CSS
 * HTML
