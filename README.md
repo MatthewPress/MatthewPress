@@ -16,13 +16,3 @@
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewPress&layout=compact&theme=outrun" />
   </a>
 </div>
-
-* Figma
-* Heroku
-* Postman
-
-### Processess / Concepts
-
-* OOP
-* TDD
-* Agile
