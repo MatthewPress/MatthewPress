@@ -17,40 +17,6 @@
   </a>
 </div>
 
-<hr />
-
-## Skills
-
-### Front-End
-
-* React
-* React Router
-* GraphQL
-* Apollo
-* TypeScript
-* JavaScript
-* CSS
-* HTML
-* Node.js
-* NPM
-
-### Back-End
-
-* Express.js
-* Knex.js
-* PostgreSQL
-
-### Testing
-
-* Mocha
-* Chai.js
-* Cypress
-
-### Tools
-
-* GitHub
-* Git
-* VSCode
 * Figma
 * Heroku
 * Postman
